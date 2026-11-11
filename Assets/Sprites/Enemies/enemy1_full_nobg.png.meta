@@ -1,0 +1,2587 @@
+fileFormatVersion: 2
+guid: ebfeaa8ceadd9514f90cdac65c7d65a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4988011150432558167
+    second: enemy1_full_nobg_0
+  - first:
+      213: 3724911071505565583
+    second: enemy1_full_nobg_1
+  - first:
+      213: 1367246610873937088
+    second: enemy1_full_nobg_2
+  - first:
+      213: -5384490474035928277
+    second: enemy1_full_nobg_3
+  - first:
+      213: -7494097705221074209
+    second: enemy1_full_nobg_4
+  - first:
+      213: -3681766560663867345
+    second: enemy1_full_nobg_5
+  - first:
+      213: -2405402811608194273
+    second: enemy1_full_nobg_6
+  - first:
+      213: 2994385388126088606
+    second: enemy1_full_nobg_7
+  - first:
+      213: 3213773589428291104
+    second: enemy1_full_nobg_8
+  - first:
+      213: -2013778694800464693
+    second: enemy1_full_nobg_9
+  - first:
+      213: -8775746394780199331
+    second: enemy1_full_nobg_10
+  - first:
+      213: 9010067176059125072
+    second: enemy1_full_nobg_11
+  - first:
+      213: -6856582422042563415
+    second: enemy1_full_nobg_12
+  - first:
+      213: -766402772875116750
+    second: enemy1_full_nobg_13
+  - first:
+      213: -4617030807615147807
+    second: enemy1_full_nobg_14
+  - first:
+      213: 4063230437332104412
+    second: enemy1_full_nobg_15
+  - first:
+      213: -6575108354696876109
+    second: enemy1_full_nobg_16
+  - first:
+      213: 2949125806553143157
+    second: enemy1_full_nobg_17
+  - first:
+      213: -7849588604403828361
+    second: enemy1_full_nobg_18
+  - first:
+      213: -1592878452429220596
+    second: enemy1_full_nobg_19
+  - first:
+      213: 6849123091542992199
+    second: enemy1_full_nobg_20
+  - first:
+      213: -1808273545212733281
+    second: enemy1_full_nobg_21
+  - first:
+      213: 7749297985549120715
+    second: enemy1_full_nobg_22
+  - first:
+      213: 2156907554363580580
+    second: enemy1_full_nobg_23
+  - first:
+      213: 3426405607493477709
+    second: enemy1_full_nobg_24
+  - first:
+      213: 9206485328487833511
+    second: enemy1_full_nobg_25
+  - first:
+      213: 4437634112415852780
+    second: enemy1_full_nobg_26
+  - first:
+      213: 1913789282295409618
+    second: enemy1_full_nobg_27
+  - first:
+      213: 3689001363800653650
+    second: enemy1_full_nobg_28
+  - first:
+      213: -3679162289727552819
+    second: enemy1_full_nobg_29
+  - first:
+      213: 2828754044367840206
+    second: enemy1_full_nobg_30
+  - first:
+      213: -1523631057788214931
+    second: enemy1_full_nobg_31
+  - first:
+      213: -6642334359846910647
+    second: enemy1_full_nobg_32
+  - first:
+      213: 8124552775138216215
+    second: enemy1_full_nobg_33
+  - first:
+      213: -5866115932677633678
+    second: enemy1_full_nobg_34
+  - first:
+      213: 1828691760349824674
+    second: enemy1_full_nobg_35
+  - first:
+      213: -1656130055270957197
+    second: enemy1_full_nobg_36
+  - first:
+      213: 5765412586067305301
+    second: enemy1_full_nobg_37
+  - first:
+      213: 9222165548497578043
+    second: enemy1_full_nobg_38
+  - first:
+      213: 4543685517197409131
+    second: enemy1_full_nobg_39
+  - first:
+      213: -4173905969225207665
+    second: enemy1_full_nobg_40
+  - first:
+      213: 1632410411029367824
+    second: enemy1_full_nobg_41
+  - first:
+      213: -5409747509744136852
+    second: enemy1_full_nobg_42
+  - first:
+      213: 3758397446158007693
+    second: enemy1_full_nobg_43
+  - first:
+      213: 1151122165310056385
+    second: enemy1_full_nobg_44
+  - first:
+      213: -5438290763606716771
+    second: enemy1_full_nobg_45
+  - first:
+      213: -9028075122589304623
+    second: enemy1_full_nobg_46
+  - first:
+      213: 2347725786233782004
+    second: enemy1_full_nobg_47
+  - first:
+      213: -7201391270117857078
+    second: enemy1_full_nobg_48
+  - first:
+      213: -5470788221971206690
+    second: enemy1_full_nobg_49
+  - first:
+      213: -6023161177007171702
+    second: enemy1_full_nobg_50
+  - first:
+      213: 7393907895178807341
+    second: enemy1_full_nobg_51
+  - first:
+      213: 8480189545076343353
+    second: enemy1_full_nobg_52
+  - first:
+      213: -3527882924006264204
+    second: enemy1_full_nobg_53
+  - first:
+      213: 1789706515288563994
+    second: enemy1_full_nobg_54
+  - first:
+      213: -7843692868188301302
+    second: enemy1_full_nobg_55
+  - first:
+      213: -6833759082484553872
+    second: enemy1_full_nobg_56
+  - first:
+      213: -5027863493154945858
+    second: enemy1_full_nobg_57
+  - first:
+      213: -585115803755928874
+    second: enemy1_full_nobg_58
+  - first:
+      213: 5547194744901398146
+    second: enemy1_full_nobg_59
+  - first:
+      213: -7853984972389681151
+    second: enemy1_full_nobg_60
+  - first:
+      213: 1099418863999619591
+    second: enemy1_full_nobg_61
+  - first:
+      213: 8500496649311894138
+    second: enemy1_full_nobg_62
+  - first:
+      213: -7766301560127381489
+    second: enemy1_full_nobg_63
+  - first:
+      213: 43225688391347107
+    second: enemy1_full_nobg_64
+  - first:
+      213: -4422958236867317610
+    second: enemy1_full_nobg_65
+  - first:
+      213: 4709163549932853475
+    second: enemy1_full_nobg_66
+  - first:
+      213: -5625304487228816355
+    second: enemy1_full_nobg_67
+  - first:
+      213: -5684762108504602305
+    second: enemy1_full_nobg_68
+  - first:
+      213: -6959844450171179890
+    second: enemy1_full_nobg_69
+  - first:
+      213: 382698349111764612
+    second: enemy1_full_nobg_70
+  - first:
+      213: 3265418903027171080
+    second: enemy1_full_nobg_71
+  - first:
+      213: 1745126521610175821
+    second: enemy1_full_nobg_72
+  - first:
+      213: -6100493164250599529
+    second: enemy1_full_nobg_73
+  - first:
+      213: 2074134819811909680
+    second: enemy1_full_nobg_74
+  - first:
+      213: -2322904994154044035
+    second: enemy1_full_nobg_75
+  - first:
+      213: -4320329189153716609
+    second: enemy1_full_nobg_76
+  - first:
+      213: -469545584175393084
+    second: enemy1_full_nobg_77
+  - first:
+      213: 8419184910937569993
+    second: enemy1_full_nobg_78
+  - first:
+      213: 8067664020276545655
+    second: enemy1_full_nobg_79
+  - first:
+      213: -7452457891662816118
+    second: enemy1_full_nobg_80
+  - first:
+      213: 5782739972275100334
+    second: enemy1_full_nobg_81
+  - first:
+      213: 4833842239511428011
+    second: enemy1_full_nobg_82
+  - first:
+      213: 6657875820348820375
+    second: enemy1_full_nobg_83
+  - first:
+      213: -8832728781718354457
+    second: enemy1_full_nobg_84
+  - first:
+      213: 6221360701319092246
+    second: enemy1_full_nobg_85
+  - first:
+      213: 1405590620252101800
+    second: enemy1_full_nobg_86
+  - first:
+      213: 5620046240996777411
+    second: enemy1_full_nobg_87
+  - first:
+      213: -6701338171865775533
+    second: enemy1_full_nobg_88
+  - first:
+      213: 6400201633514979510
+    second: enemy1_full_nobg_89
+  - first:
+      213: 7811706015157757707
+    second: enemy1_full_nobg_90
+  - first:
+      213: 3115163483836883336
+    second: enemy1_full_nobg_91
+  - first:
+      213: -8989730970587872529
+    second: enemy1_full_nobg_92
+  - first:
+      213: 8362337198070606520
+    second: enemy1_full_nobg_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy1_full_nobg_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2681
+        width: 515
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c5835b6b9f83540800000000000000
+      internalID: 4988011150432558167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2473
+        width: 525
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87420552ea81b330800000000000000
+      internalID: 3724911071505565583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2366
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc6f717c8f69f210800000000000000
+      internalID: 1367246610873937088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2366
+        width: 308
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b232d9e21727645b0800000000000000
+      internalID: -5384490474035928277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2368
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd25a30b7dd9ff790800000000000000
+      internalID: -7494097705221074209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2272
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20f7b5e1dcb7ecc0800000000000000
+      internalID: -3681766560663867345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2283
+        width: 25
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f132e5023ea4e9ed0800000000000000
+      internalID: -2405402811608194273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2221
+        width: 37
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d20e345a13e8920800000000000000
+      internalID: 2994385388126088606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2288
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026c7626d0e999c20800000000000000
+      internalID: 3213773589428291104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2288
+        width: 22
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc42b2052fe9d04e0800000000000000
+      internalID: -2013778694800464693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2287
+        width: 25
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56163c5629463680800000000000000
+      internalID: -8775746394780199331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2289
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d3967fb503a0d70800000000000000
+      internalID: 9010067176059125072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2225
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac27f86d9688d0a0800000000000000
+      internalID: -6856582422042563415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2162
+        width: 42
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f77e71db03d55f0800000000000000
+      internalID: -766402772875116750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2229
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0701b41f20defb0800000000000000
+      internalID: -4617030807615147807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2172
+        width: 46
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd43cb90e8e736830800000000000000
+      internalID: 4063230437332104412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2275
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfe69ea9c580c4a0800000000000000
+      internalID: -6575108354696876109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2231
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5779981cb466de820800000000000000
+      internalID: 2949125806553143157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2226
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7793e81d0c8a01390800000000000000
+      internalID: -7849588604403828361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2226
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c051598ac75f4e9e0800000000000000
+      internalID: -1592878452429220596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2218
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745685ed929fc0f50800000000000000
+      internalID: 6849123091542992199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2156
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98dbd09ac8b7e6e0800000000000000
+      internalID: -1808273545212733281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_22
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2169
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc43e47d5790b8b60800000000000000
+      internalID: 7749297985549120715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2158
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0a23f2effdeed10800000000000000
+      internalID: 2156907554363580580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2162
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d452e030fb90d8f20800000000000000
+      internalID: 3426405607493477709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2164
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afdc52d0a104cf70800000000000000
+      internalID: 9206485328487833511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2045
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8e3b1b6b4a59d30800000000000000
+      internalID: 4437634112415852780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2104
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbea2a66352f8a10800000000000000
+      internalID: 1913789282295409618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_28
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2047
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ff449f137f13330800000000000000
+      internalID: 3689001363800653650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2148
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2c6c9f36df0fcc0800000000000000
+      internalID: -3679162289727552819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2060
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3ae73e0d0c14720800000000000000
+      internalID: 2828754044367840206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_31
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2104
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61e7cf10a9fadae0800000000000000
+      internalID: -1523631057788214931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2107
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94504f1a710b1d3a0800000000000000
+      internalID: -6642334359846910647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2040
+        width: 107
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719070904b530c070800000000000000
+      internalID: 8124552775138216215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2048
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2798d75a3ae579ea0800000000000000
+      internalID: -5866115932677633678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_35
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2037
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6c55b9771d06910800000000000000
+      internalID: 1828691760349824674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1990
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ff9b14d7e3409e0800000000000000
+      internalID: -1656130055270957197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1988
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ab18533cd20050800000000000000
+      internalID: 5765412586067305301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1986
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b382b0a84b6bbff70800000000000000
+      internalID: 9222165548497578043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1988
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b73a787e96e0f30800000000000000
+      internalID: 4543685517197409131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_40
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1984
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80f272a2ae4316c0800000000000000
+      internalID: -4173905969225207665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_41
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1967
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c0e05be9c77a610800000000000000
+      internalID: 1632410411029367824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_42
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1972
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d852d4d47bce4b0800000000000000
+      internalID: -5409747509744136852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 793
+        width: 418
+        height: 1157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dbbfe7092882430800000000000000
+      internalID: 3758397446158007693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_44
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1386
+        width: 38
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7626ca28b99ff00800000000000000
+      internalID: 1151122165310056385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_45
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1316
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e0fe12d5f4784b0800000000000000
+      internalID: -5438290763606716771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1028
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8f5804285d5b280800000000000000
+      internalID: -9028075122589304623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 578
+        width: 38
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe3d7ee92cc49020800000000000000
+      internalID: 2347725786233782004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_48
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 620
+        width: 46
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8a6006bc48f0c90800000000000000
+      internalID: -7201391270117857078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 739
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edde30cf81bd314b0800000000000000
+      internalID: -5470788221971206690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_50
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 708
+        width: 23
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87509352de696ca0800000000000000
+      internalID: -6023161177007171702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 710
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28c61a5e007c9660800000000000000
+      internalID: 7393907895178807341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_52
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 708
+        width: 20
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932c146167fafa570800000000000000
+      internalID: 8480189545076343353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_53
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 709
+        width: 21
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472b0711c217a0fc0800000000000000
+      internalID: -3527882924006264204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 701
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a112af7e79056d810800000000000000
+      internalID: 1789706515288563994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_55
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 587
+        width: 58
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a081f50e4ea952390800000000000000
+      internalID: -7843692868188301302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_56
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 590
+        width: 38
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077a8ef325c9921a0800000000000000
+      internalID: -6833759082484553872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_57
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 657
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4485faac0793ab0800000000000000
+      internalID: -5027863493154945858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_58
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 650
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d229acc64041e7f0800000000000000
+      internalID: -585115803755928874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_59
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 646
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ee2cdea389bfc40800000000000000
+      internalID: 5547194744901398146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 646
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108f471a74a010390800000000000000
+      internalID: -7853984972389681151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_61
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 597
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7029f00c1abe14f00800000000000000
+      internalID: 1099418863999619591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_62
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 641
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a32ac3aa4d7f570800000000000000
+      internalID: 8500496649311894138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_63
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 597
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00ab02f0ed883490800000000000000
+      internalID: -7766301560127381489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 586
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abecb9d881999000800000000000000
+      internalID: 43225688391347107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_65
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 587
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690b22bdaee7e92c0800000000000000
+      internalID: -4422958236867317610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_66
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 566
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e817f66c4f4a5140800000000000000
+      internalID: 4709163549932853475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_67
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 568
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14c05d7f57eee1b0800000000000000
+      internalID: -5625304487228816355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_68
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 527
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f398bf14bfaab11b0800000000000000
+      internalID: -5684762108504602305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_69
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 180
+        width: 303
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ca29fe85aa96f90800000000000000
+      internalID: -6959844450171179890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_70
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 527
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4866fe2fe1e9f4500800000000000000
+      internalID: 382698349111764612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_71
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 525
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fb7cdf039115d20800000000000000
+      internalID: 3265418903027171080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 459
+        width: 104
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4500b8435fe73810800000000000000
+      internalID: 1745126521610175821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_73
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 466
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fe426f9c1b65ba0800000000000000
+      internalID: -6100493164250599529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 408
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030682f11aec8cc10800000000000000
+      internalID: 2074134819811909680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_75
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 409
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75a770173263cfd0800000000000000
+      internalID: -2322904994154044035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_76
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 299
+        width: 90
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76cdb71e7b1b04c0800000000000000
+      internalID: -4320329189153716609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_77
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 242
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c65f5967c6db79f0800000000000000
+      internalID: -469545584175393084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_78
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 179
+        width: 45
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca33cad114f6d470800000000000000
+      internalID: 8419184910937569993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_79
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 251
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77888cf9ea916ff60800000000000000
+      internalID: 8067664020276545655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_80
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 183
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c91e7480d839890800000000000000
+      internalID: -7452457891662816118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 120
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaad8e3dd5b604050800000000000000
+      internalID: 5782739972275100334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 181
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab7b52f7e1451340800000000000000
+      internalID: 4833842239511428011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_83
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 222
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bcd8e98c6856c50800000000000000
+      internalID: 6657875820348820375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_84
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e50f4888f7db6580800000000000000
+      internalID: -8832728781718354457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_85
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 129
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61813bd7896b65650800000000000000
+      internalID: 6221360701319092246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_86
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 133
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac5fb3d839a18310800000000000000
+      internalID: 1405590620252101800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_87
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 126
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdd1e7a74a6efd40800000000000000
+      internalID: 5620046240996777411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 125
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352cc2a10701003a0800000000000000
+      internalID: -6701338171865775533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_89
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 8
+        width: 112
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b00988d97512d850800000000000000
+      internalID: 6400201633514979510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_90
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 73
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07a24b8b31c86c60800000000000000
+      internalID: 7811706015157757707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_91
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 64
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881ad570fa84b3b20800000000000000
+      internalID: 3115163483836883336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_92
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 129
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe248c7df4f0e3380800000000000000
+      internalID: -8989730970587872529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy1_full_nobg_93
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 230
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baa807406dfc0470800000000000000
+      internalID: 8362337198070606520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      enemy1_full_nobg_0: 4988011150432558167
+      enemy1_full_nobg_1: 3724911071505565583
+      enemy1_full_nobg_10: -8775746394780199331
+      enemy1_full_nobg_11: 9010067176059125072
+      enemy1_full_nobg_12: -6856582422042563415
+      enemy1_full_nobg_13: -766402772875116750
+      enemy1_full_nobg_14: -4617030807615147807
+      enemy1_full_nobg_15: 4063230437332104412
+      enemy1_full_nobg_16: -6575108354696876109
+      enemy1_full_nobg_17: 2949125806553143157
+      enemy1_full_nobg_18: -7849588604403828361
+      enemy1_full_nobg_19: -1592878452429220596
+      enemy1_full_nobg_2: 1367246610873937088
+      enemy1_full_nobg_20: 6849123091542992199
+      enemy1_full_nobg_21: -1808273545212733281
+      enemy1_full_nobg_22: 7749297985549120715
+      enemy1_full_nobg_23: 2156907554363580580
+      enemy1_full_nobg_24: 3426405607493477709
+      enemy1_full_nobg_25: 9206485328487833511
+      enemy1_full_nobg_26: 4437634112415852780
+      enemy1_full_nobg_27: 1913789282295409618
+      enemy1_full_nobg_28: 3689001363800653650
+      enemy1_full_nobg_29: -3679162289727552819
+      enemy1_full_nobg_3: -5384490474035928277
+      enemy1_full_nobg_30: 2828754044367840206
+      enemy1_full_nobg_31: -1523631057788214931
+      enemy1_full_nobg_32: -6642334359846910647
+      enemy1_full_nobg_33: 8124552775138216215
+      enemy1_full_nobg_34: -5866115932677633678
+      enemy1_full_nobg_35: 1828691760349824674
+      enemy1_full_nobg_36: -1656130055270957197
+      enemy1_full_nobg_37: 5765412586067305301
+      enemy1_full_nobg_38: 9222165548497578043
+      enemy1_full_nobg_39: 4543685517197409131
+      enemy1_full_nobg_4: -7494097705221074209
+      enemy1_full_nobg_40: -4173905969225207665
+      enemy1_full_nobg_41: 1632410411029367824
+      enemy1_full_nobg_42: -5409747509744136852
+      enemy1_full_nobg_43: 3758397446158007693
+      enemy1_full_nobg_44: 1151122165310056385
+      enemy1_full_nobg_45: -5438290763606716771
+      enemy1_full_nobg_46: -9028075122589304623
+      enemy1_full_nobg_47: 2347725786233782004
+      enemy1_full_nobg_48: -7201391270117857078
+      enemy1_full_nobg_49: -5470788221971206690
+      enemy1_full_nobg_5: -3681766560663867345
+      enemy1_full_nobg_50: -6023161177007171702
+      enemy1_full_nobg_51: 7393907895178807341
+      enemy1_full_nobg_52: 8480189545076343353
+      enemy1_full_nobg_53: -3527882924006264204
+      enemy1_full_nobg_54: 1789706515288563994
+      enemy1_full_nobg_55: -7843692868188301302
+      enemy1_full_nobg_56: -6833759082484553872
+      enemy1_full_nobg_57: -5027863493154945858
+      enemy1_full_nobg_58: -585115803755928874
+      enemy1_full_nobg_59: 5547194744901398146
+      enemy1_full_nobg_6: -2405402811608194273
+      enemy1_full_nobg_60: -7853984972389681151
+      enemy1_full_nobg_61: 1099418863999619591
+      enemy1_full_nobg_62: 8500496649311894138
+      enemy1_full_nobg_63: -7766301560127381489
+      enemy1_full_nobg_64: 43225688391347107
+      enemy1_full_nobg_65: -4422958236867317610
+      enemy1_full_nobg_66: 4709163549932853475
+      enemy1_full_nobg_67: -5625304487228816355
+      enemy1_full_nobg_68: -5684762108504602305
+      enemy1_full_nobg_69: -6959844450171179890
+      enemy1_full_nobg_7: 2994385388126088606
+      enemy1_full_nobg_70: 382698349111764612
+      enemy1_full_nobg_71: 3265418903027171080
+      enemy1_full_nobg_72: 1745126521610175821
+      enemy1_full_nobg_73: -6100493164250599529
+      enemy1_full_nobg_74: 2074134819811909680
+      enemy1_full_nobg_75: -2322904994154044035
+      enemy1_full_nobg_76: -4320329189153716609
+      enemy1_full_nobg_77: -469545584175393084
+      enemy1_full_nobg_78: 8419184910937569993
+      enemy1_full_nobg_79: 8067664020276545655
+      enemy1_full_nobg_8: 3213773589428291104
+      enemy1_full_nobg_80: -7452457891662816118
+      enemy1_full_nobg_81: 5782739972275100334
+      enemy1_full_nobg_82: 4833842239511428011
+      enemy1_full_nobg_83: 6657875820348820375
+      enemy1_full_nobg_84: -8832728781718354457
+      enemy1_full_nobg_85: 6221360701319092246
+      enemy1_full_nobg_86: 1405590620252101800
+      enemy1_full_nobg_87: 5620046240996777411
+      enemy1_full_nobg_88: -6701338171865775533
+      enemy1_full_nobg_89: 6400201633514979510
+      enemy1_full_nobg_9: -2013778694800464693
+      enemy1_full_nobg_90: 7811706015157757707
+      enemy1_full_nobg_91: 3115163483836883336
+      enemy1_full_nobg_92: -8989730970587872529
+      enemy1_full_nobg_93: 8362337198070606520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
